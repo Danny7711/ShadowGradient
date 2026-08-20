@@ -36,3 +36,39 @@
     color: tomato;
     text-shadow: -4px 4px 8px rgba(255, 0, 0, 0.7);
 }
+
+.element1 {
+    width: 300px;
+    height: 150px;
+    background: linear-gradient(to right, red, yellow, blue);
+}
+
+.element2 {
+    width: 300px;
+    height: 150px;
+    background: linear-gradient(to bottom, green, yellow, orange);
+}
+
+.element3 {
+    width: 300px;
+    height: 150px;
+    background: linear-gradient(135deg, purple, pink, cyan);
+}
+
+.element4 {
+    width: 300px;
+    height: 150px;
+    background: radial-gradient(circle, red, yellow, green);
+}
+
+.element5 {
+    width: 300px;
+    height: 150px;
+    background: radial-gradient(ellipse, blue, purple, pink);
+}
+
+.element6 {
+    width: 250px;
+    height: 250px;
+    background: radial-gradient(circle, orange, red, black);
+}
