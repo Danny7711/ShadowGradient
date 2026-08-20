@@ -1,6 +1,20 @@
 .Shadow1 {
-   box-shadow: 15px 15px 10px 5px rgba(0,0,0,0.75);
-   width: 300px;
-   height: 300px;
-   background-color: blueviolet;
+    box-shadow: 20px 20px 15px 5px rgba(0, 0, 0, 0.6);
+    width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+}
+
+.Shadow2 {
+    box-shadow: 10px 10px 20px 8px rgba(0, 150, 255, 0.7);
+    width: 100px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+.Shadow3 {
+    box-shadow: -10px 10px 15px 5px rgba(255, 50, 50, 0.7);
+    width: 180px;
+    height: 120px;
+    background-color: tomato;
 }
