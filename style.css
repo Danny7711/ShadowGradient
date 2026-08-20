@@ -52,7 +52,7 @@
 .element3 {
     width: 300px;
     height: 150px;
-    background: linear-gradient(135deg, purple, pink, cyan);
+    background: linear-gradient(to left, purple, pink, cyan);
 }
 
 .element4 {
