@@ -18,3 +18,21 @@
     height: 120px;
     background-color: tomato;
 }
+
+.text1 {
+    font-size: 30px;
+    color: blueviolet;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6);
+}
+
+.text2 {
+    font-size: 40px;
+    color: deepskyblue;
+    text-shadow: 5px 5px 10px rgba(0, 150, 255, 0.7);
+}
+
+.text3 {
+    font-size: 50px;
+    color: tomato;
+    text-shadow: -4px 4px 8px rgba(255, 0, 0, 0.7);
+}
